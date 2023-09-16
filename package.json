@@ -1,0 +1,21 @@
+{
+  "name": "spacedonut",
+  "displayName": "Space Donut",
+  "description": ":)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space Donut Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space Donut Theme-color-theme.json"
+      }
+    ]
+  }
+}
