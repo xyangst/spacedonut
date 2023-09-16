@@ -1,8 +1,13 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xyangst/spacedonut"
+  },
   "name": "spacedonut",
   "displayName": "Space Donut",
   "description": ":)",
   "version": "0.0.1",
+  "publisher": "angst",
   "engines": {
     "vscode": "^1.82.0"
   },
